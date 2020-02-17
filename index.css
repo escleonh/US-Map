@@ -1,0 +1,47 @@
+.mapImg{
+    fill: rgb(5, 12, 44);
+    stroke: white;
+    stroke-width: .3px;
+
+}
+a:hover{
+    fill: crimson;
+}
+a:visited{
+    fill: rgb(5, 12, 44);
+}
+
+h1{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 24px;
+    border-radius: 20px;
+    background: crimson;
+    border:none;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: 1px 2px 3px grey;
+}
+button:focus{
+    outline: none;
+}
+button:hover{
+    width: 101px;
+    height: 25px;
+  
+}
+.startbtn{
+    text-align: center;
+    height: 25px;
+}
+.statePlaceHolder{
+    text-align: center;
+}
+h3{
+ 
+}
+.mapImg{
+    display: none;
+}
